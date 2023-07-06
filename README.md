@@ -1,7 +1,5 @@
 # E-Okul_Benzeri_Uygulama
-Giriş Paneli
 ![Giriş Paneli](https://github.com/yagmurttk/E-Okul_Benzeri_Uygulama/assets/126063227/f48ecccb-0064-47c6-a703-3cdd50d92b6a)
-Öğrenci Giriş Paneli
 ![Öğrenci Giriş Paneli](https://github.com/yagmurttk/E-Okul_Benzeri_Uygulama/assets/126063227/d387365f-d29c-4106-821c-d8efd34bca70)
 ![Öğrenci Paneli](https://github.com/yagmurttk/E-Okul_Benzeri_Uygulama/assets/126063227/52ef214b-80a8-43fa-8520-0b3686643dd8)
 ![Öğretmen Giriş Paneli](https://github.com/yagmurttk/E-Okul_Benzeri_Uygulama/assets/126063227/c9950462-6d03-45d3-95c3-112fab3cb909)
